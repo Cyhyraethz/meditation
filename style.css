@@ -5,15 +5,15 @@ body {
 
 h1 {
   text-align: center;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
 
 .display {
   margin-left: auto;
   margin-right: auto;
-  height: 300px;
-  width: 300px;
+  height: 25%;
+  width: 25%;
   border: 5px solid #F2F2F2;
   border-radius: 50%;
 }
